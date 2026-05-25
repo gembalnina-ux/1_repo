@@ -1,7 +1,8 @@
-# 1_repo
-**__Analiza i wizualizacja danych w Pythonie__**  
+# Nina Gembal  ## 
+_Analiza i wizualizacja danych w Pythonie_
+-----
 *data utworzenia: 25.05.2026*  
-  ====
+
 W niniejszym repozytorium będą zamieszczane materiały dydaktyczne.    
 
 *Nina Gembal*  
