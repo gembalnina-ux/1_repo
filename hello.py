@@ -6,5 +6,5 @@ def function(x):
     else:
         return "ani 3 ani 5"
 
-x = 9
+x = 11
 print(function(x))
