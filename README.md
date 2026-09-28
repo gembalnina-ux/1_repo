@@ -1,9 +1,9 @@
 # Nina Gembal  ## 
-_Analiza i wizualizacja danych w Pythonie_
+_Analiza danych w R_
 -----
 *data utworzenia: 25.05.2026*  
 
-W niniejszym repozytorium będą zamieszczane materiały dydaktyczne.    
+    W niniejszym repozytorium zamieszczane będą materiały dydaktyczne.
 
 *Nina Gembal*  
  
