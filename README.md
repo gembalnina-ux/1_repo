@@ -1,5 +1,5 @@
 # Nina Gembal  ## 
-_Analiza danych w R_
+_Analiza danych_
 -----
 *data utworzenia: 25.05.2026*  
 
